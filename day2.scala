@@ -16,3 +16,4 @@ def eval2(s: String) =
     val result = (s(2).toInt - 'X'.toInt) * 3
     val mychoice = Map("A X" -> 3, "A Y" -> 1, "A Z" -> 2, "B X" -> 1, "B Y" -> 2, "B Z" -> 3, "C X" -> 2, "C Y" -> 3, "C Z" -> 1)
     result + mychoice(s)
+
