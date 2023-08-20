@@ -1,0 +1,6 @@
+#FileLock
+#Sun Aug 20 08:33:41 MSK 2023
+hostName=localhost
+id=18a116f4ca9683c729abd6e7deefcaccff448429970
+method=file
+server=localhost\:65481
